@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data / models (if you don't want to upload your dataset or large models)
+data/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
